@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://flow-motion.png">
+  <a href="C:\Users\Kavi Bharathi\Pictures\Screenshots\flow-motion.png">
     <img src="assests/flow-motion.png" alt="RuView — WiFi becomes spatial awareness,simple explain view of the project" width="100%">
   </a>
 </p>
