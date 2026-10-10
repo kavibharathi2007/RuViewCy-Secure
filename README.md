@@ -12,6 +12,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="C:\Users\Kavi Bharathi\Pictures\Screenshots\flow-motion.png">
+    <img src="assets/ruos-animated.svg" alt="RuView — WiFi becomes spatial awareness, with Ruflo coordination and a ruOS sensing workspace" width="100%">
+  </a>
+</p>
+
+
 
 ## **See through walls with WiFi** ##
 
@@ -790,15 +797,9 @@ Start with the user, build, and calibration guides; expand for the full referenc
 MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🤝 Creator Affiliate Program
+### Hi, I'm KAVIBHARATHI 
 
-**For TikTok · Instagram · YouTube creators** — earn **25% on every Cognitum sale** you refer. The RuFlo, RuView, and RuVector videos you're already making have done millions of views; get paid for the orders they drive. Click-tracking activates instantly; commissions activate after a quick manual review (usually under 24 hours).
-
-[Apply now → cognitum.one/affiliate](https://cognitum.one/affiliate)
-
-## 📞 Support
-
-[GitHub Issues](https://github.com/ruvnet/RuView/issues) | [Discussions](https://github.com/ruvnet/RuView/discussions) | [PyPI](https://pypi.org/project/wifi-densepose/)
-
+## 
 ---
 
-**WiFi DensePose** — Privacy-preserving human pose estimation through WiFi signals.
+**WiFi DensePose** — Privacy-preserving human pose estimation through WiFi signals  
