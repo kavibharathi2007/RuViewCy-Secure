@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="C:\Users\Kavi Bharathi\Pictures\Screenshots\flow-motion.png">
-    <img src="assests/flow-motion.png" alt="RuView — WiFi becomes spatial awareness,simple explain view of the project" width="100%">
+    <img src="assests/flow-motion.png" alt="RuView — WiFi becomes spatial awareness" width="100%">
   </a>
 </p>
 
