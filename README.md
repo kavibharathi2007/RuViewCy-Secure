@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="C:\Users\Kavi Bharathi\Pictures\Screenshots\flow-motion.png">
-    <img src="assets/ruos-animated.svg" alt="RuView — WiFi becomes spatial awareness, with Ruflo coordination and a ruOS sensing workspace" width="100%">
+    <img src="C:\Users\Kavi Bharathi\Pictures\Screenshots\flow-motion.png" alt="RuView — WiFi becomes spatial awareness, with Ruflo coordination and a ruOS sensing workspace" width="100%">
   </a>
 </p>
 
