@@ -1,3 +1,6 @@
+# Hi folks, Here KAVIBHARATHI,
+#  Special Note of RuViewCy-Secure
+  RuView is an innovative project that showcases the power of technology, creativity and practical problem-solving. It reflects the everyday wireless technology into a source of meaningful environment insights..
 # π RuView
 
 <p align="center">
