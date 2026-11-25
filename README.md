@@ -15,12 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="flow-motion.png">
-    <img src="assets/flow-motion.png" alt="RuView — WiFi becomes spatial awareness" width="100%">
-  </a>
-</p>
-
 
 
 ## **See through walls with WiFi** ##
