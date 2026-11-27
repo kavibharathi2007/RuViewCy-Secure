@@ -787,14 +787,12 @@ Start with the user, build, and calibration guides; expand for the full referenc
 > - Single ESP32 deployments have limited spatial resolution — use 2+ nodes or add a [Cognitum Seed](https://cognitum.one) for best results
 > - Camera-free pose accuracy is limited (PCK@20 ≈ 2.5% with proxy labels) — [camera ground-truth training](docs/adr/ADR-079-camera-ground-truth-training.md) targets **35%+ PCK@20**; the pipeline is implemented, but the data-collection and evaluation phases (ADR-079 P7–P9) are still pending.
 >
-> Contributions and bug reports welcome at [Issues](https://github.com/ruvnet/RuView/issues).
+> Contributions and bug reports welcome at [Issues](https://github.com/kavibharathi2007/RuViewCy-Secure/issues).
 
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-
-## 
 ---
 
 **WiFi DensePose** — Privacy-preserving human pose estimation through WiFi signals  
