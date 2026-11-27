@@ -52,7 +52,7 @@ Every WiFi router already fills your space with radio waves. When people move, b
 <details>
 <summary><strong>RuView MetaHarness</strong> — guided operation for humans and AI agents</summary>
 
-The RuView-specific metaharness we created is published as [`@ruvnet/ruview`](harness/ruview/README.md). It provides:
+The RuView-specific metaharness we created is published as [`@ruvnet/ruview`](harness/ruviewCy-Secure/README.md). It provides:
 - source-cited guidance;
 - device access for CSI nodes, radar and LiDAR;
 - firmware flashing with boot evidence;
@@ -105,7 +105,7 @@ Full walkthrough: [user guide → RuView npm toolkit](docs/user-guide.md#ruview-
 
 </details>
 
-Built on [RuVector](https://github.com/ruvnet/ruvector/) and [Cognitum Seed](https://cognitum.one), RuView runs entirely on edge hardware — an ESP32 mesh (as low as $9 per node) paired with a Cognitum Seed for persistent memory, cryptographic attestation, and AI integration. No cloud, no cameras, no internet required.
+Built on [RuViewCy-Secure](https://github.com/kavibharathi2007/RuViewCy-Secure) and [Cognitum Seed](https://cognitum.one), RuView runs entirely on edge hardware — an ESP32 mesh (as low as $9 per node) paired with a Cognitum Seed for persistent memory, cryptographic attestation, and AI integration. No cloud, no cameras, no internet required.
 
 The system learns each environment locally using spiking neural networks that adapt in under 30 seconds, with multi-frequency mesh scanning across 6 WiFi channels that uses your neighbors' routers as free radar illuminators. Every measurement is cryptographically attested via an Ed25519 witness chain.
 
