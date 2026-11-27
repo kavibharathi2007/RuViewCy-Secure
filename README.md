@@ -793,8 +793,6 @@ Start with the user, build, and calibration guides; expand for the full referenc
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-## 🤝 Creator Affiliate Program
-### Hi, I'm KAVIBHARATHI 
 
 ## 
 ---
